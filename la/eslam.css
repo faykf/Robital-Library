@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.eslam {
+    text-align: center;
+    background: #222;
+    width: 120px;
+    height: 310px;
+    color: aliceblue;
+}
